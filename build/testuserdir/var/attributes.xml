@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="C:|Users|jsnet|OneDrive|Documents|NetBeansProjects|AlloyTest|src|alloytest|moo.als">
+        <attr name="requireProject" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="C:|Users|jsnet|OneDrive|Documents|NetBeansProjects|AlloyTest|src|alloytest|test.als">
+        <attr name="requireProject" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="C:|Users|jsnet|OneDrive|Documents|NetBeansProjects|AlloyTest|src|alloytest|test1">
+        <attr name="requireProject" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="C:|Users|jsnet|OneDrive|Documents|NetBeansProjects|AlloyTest|src|alloytest|test2.als">
+        <attr name="requireProject" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="C:|Users|jsnet|OneDrive|Documents|NetBeansProjects|TestApp1|src|testapp1|NewJFrame.form">
+        <attr name="template" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="C:|Users|jsnet|OneDrive|Documents|NetBeansProjects|TestApp1|src|testapp1|NewJPanel.form">
+        <attr name="template" boolvalue="true"/>
+    </fileobject>
+</attributes>

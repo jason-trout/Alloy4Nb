@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE editor-preferences PUBLIC "-//NetBeans//DTD Editor Preferences 1.0//EN" "http://www.netbeans.org/dtds/EditorPreferences-1_0.dtd">
+<editor-preferences>
+    <entry javaType="java.lang.String" name="continuationIndentSize" xml:space="preserve">
+        <value><![CDATA[2]]></value>
+    </entry>
+    <entry javaType="java.lang.Integer" name="indent-shift-width" xml:space="preserve">
+        <value><![CDATA[2]]></value>
+    </entry>
+    <entry javaType="java.lang.Integer" name="spaces-per-tab" xml:space="preserve">
+        <value><![CDATA[2]]></value>
+    </entry>
+    <entry javaType="java.lang.Integer" name="tab-size" xml:space="preserve">
+        <value><![CDATA[2]]></value>
+    </entry>
+    <entry name="code-folding-collapse-innerclass" remove="true"/>
+    <entry name="code-folding-collapse-javadoc" remove="true"/>
+    <entry name="code-folding-collapse-method" remove="true"/>
+</editor-preferences>

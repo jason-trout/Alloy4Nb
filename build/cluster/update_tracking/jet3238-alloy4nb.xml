@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="jet3238.alloy4nb">
+    <module_version install_time="1525551836034" last="true" origin="installer" specification_version="1.0">
+        <file crc="640387211" name="config/Modules/jet3238-alloy4nb.xml"/>
+        <file crc="3696084498" name="modules/ext/alloy4.2_2015-02-22.jar"/>
+        <file crc="2997504817" name="modules/jet3238-alloy4nb.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: jet3238.alloy4nb
+OpenIDE-Module-Localizing-Bundle: jet3238/alloy4nb/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

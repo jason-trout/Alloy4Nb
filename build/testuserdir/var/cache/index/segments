@@ -1,0 +1,27 @@
+#Fri May 04 21:27:26 CDT 2018
+s5=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/jce.jar\!/
+s4=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/jsse.jar\!/
+s3=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/sunrsasign.jar\!/
+s2=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/rt.jar\!/
+s19=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/ext/sunpkcs11.jar\!/
+s1=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/resources.jar\!/
+s18=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/ext/sunmscapi.jar\!/
+s17=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/ext/sunjce_provider.jar\!/
+s16=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/ext/sunec.jar\!/
+s15=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/ext/nashorn.jar\!/
+s14=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/ext/localedata.jar\!/
+s13=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/ext/jfxrt.jar\!/
+s12=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/ext/jaccess.jar\!/
+s11=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/ext/dnsns.jar\!/
+s10=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/ext/cldrdata.jar\!/
+s26=jar\:file\:/C\:/Users/jsnet/Downloads/gson-2.8.4.jar\!/
+s25=jar\:file\:/C\:/alloy/alloy4.2_2015-02-22.jar\!/
+s24=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/src.zip\!/
+s23=file\:/C\:/Users/jsnet/OneDrive/Documents/NetBeansProjects/TestApp1/test/
+s22=file\:/C\:/Users/jsnet/OneDrive/Documents/NetBeansProjects/TestApp1/src/
+s21=file\:/C\:/Users/jsnet/OneDrive/Documents/NetBeansProjects/AlloyTest/src/
+s20=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/ext/zipfs.jar\!/
+s9=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/ext/access-bridge-64.jar\!/
+s8=file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/classes/
+s7=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/jfr.jar\!/
+s6=jar\:file\:/C\:/Program%20Files/Java/jdk1.8.0_162/jre/lib/charsets.jar\!/
